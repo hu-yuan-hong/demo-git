@@ -6,5 +6,6 @@ public class Git {
         System.out.println("true = " + true);
         System.out.printf("34545345");
         System.out.println("hello world");
+        System.out.printf("7878");
     }
 }
